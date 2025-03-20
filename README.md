@@ -1,1 +1,2 @@
-# hackathon2025
+# How to run it
+streamlit run web-ui.py
